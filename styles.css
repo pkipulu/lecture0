@@ -1,0 +1,55 @@
+body {
+  background-color: lightblue;
+  margin: 30px;
+  padding: 20px;
+
+}
+
+h1 {
+  color:#0c8e05;text-align:center;
+ }
+
+}
+div {
+           background-color:  teal;
+           width: 50%px;
+           height: 50%px;
+           margin: 30px;
+           padding: 20px;
+
+           font-family: Arial,sans-serif;
+           font-size: 20px;
+           font-weight:bold;
+           border: 3px solid blue;
+          }
+		  
+          table{
+            border: 2px solid black;
+            border-collapse: collapse;
+			
+          }
+        th{background-color: liahtarav;
+            }
+
+            td{border: 1px solid black;
+            }
+
+            th,td{
+              border: 1px solid black;
+              padding: 5px;
+            }
+
+      #top{
+        font-size: 36px;
+        /*color: red;*/
+      }
+      #middle {
+        font-size: 24px;
+      }
+      #bottom{
+        font-size: 12px;
+      }
+      .name{
+        font-weight: bold;
+      /*  color: blue;*/
+      }
